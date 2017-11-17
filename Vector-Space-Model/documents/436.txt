@@ -1,0 +1,14 @@
+.I 436
+.T
+heat transfer in planetary atmospheres at super-satellite speeds .
+.A
+hoshizaki, h.
+.B
+ars prep. 2173-61, august 1961 .
+.W
+heat transfer in planetary atmospheres at super-satellite speeds .
+the main purpose of this investigation is to examine the dependence of
+heat transfer in planetary atmospheres on the total enthalpy up to
+flight velocities of 50,000 ft/sec where a large proportion of the atoms
+ are ionized . the /total thermodynamic and transport property/ concept
+discussed by hirshfelder /j.chem.phys.,26/2/,feb.,1957/ is used .

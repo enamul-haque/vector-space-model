@@ -1,0 +1,14 @@
+.I 301
+.T
+approximate design of sharp-cornered supersonic nozzles .
+.A
+m. a. rahman
+.B
+nack and sunderland consulting mech. and elec. engineers
+.W
+approximate design of sharp-cornered supersonic nozzles .
+a modified parabolic curve appears to be in close proximity to that
+obtained by either the method of characteristics or the wave method .
+thus an attempt has been made to use analytic geometry to determine
+approximately the contour of a two-dimensional, sharp-cornered
+supersonic nozzle in a very short time .

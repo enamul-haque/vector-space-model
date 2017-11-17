@@ -1,0 +1,1 @@
+'design', 'test', 'honeycomb', 'sandwich', 'cylind', 'axial', 'compress', 'experiment', 'result', '36', 'diamet', 'honeycomb', 'cylind', 'fabric', 'thin', '0010', 'aluminum', 'face', 'core', 'prove', 'feasibl', 'stabil', 'thin', 'face', 'load', 'yield', 'point', 'effect', 'initi', 'imperfect', 'mode', 'failur', 'discuss'

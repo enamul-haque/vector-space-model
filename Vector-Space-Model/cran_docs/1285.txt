@@ -1,0 +1,1 @@
+'experi', 'hyperson', 'speed', 'circular', 'cone', 'incid', 'pressur', 'distribut', 'measur', 'circular', 'cone', 'total', 'apexangl', 'rang', '25', '45', 'degre', 'test', 'cover', 'rang', 'angl', 'incid', '0', '860', 'extent', 'analyt', 'empir', 'theori', 'predict', 'measur', 'pressur', 'assess'

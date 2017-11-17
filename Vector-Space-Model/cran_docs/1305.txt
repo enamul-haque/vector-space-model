@@ -1,0 +1,1 @@
+'propos', 'programm', 'wind', 'tunnel', 'test', 'hyperson', 'speed', 'investig', 'lift', 'properti', 'geometr', 'slender', 'shape', 'programm', 'test', 'hyperson', 'speed', 'slender', 'bodi', 'aim', 'investig', 'lift', 'gener', 'compromis', 'enforc', 'aerodynam', 'heat', 'programm', 'base', 'model', 'simpl', 'geometr', 'shape', 'lift', 'configur', 'built'

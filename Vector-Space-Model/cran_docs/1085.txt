@@ -1,0 +1,1 @@
+'note', 'converg', 'numer', 'solut', 'navierstok', 'equat', 'criterion', 'converg', 'numer', 'solut', 'navierstok', 'equat', 'dimens', 'steadi', 'condit', 'criterion', 'appli', 'case', 'steadi', 'viscou', 'flow', 'dimens', 'show', 'local', 'mesh', 'reynold', 'number', 'base', 'size', 'mesh', 'solut', 'exce', 'fix', 'numer', 'solut', 'converg'

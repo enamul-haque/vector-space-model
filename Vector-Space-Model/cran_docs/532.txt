@@ -1,0 +1,1 @@
+'pitchyaw', 'stabil', 'missil', 'oscil', 'roll', 'method', 'lyapunov', 'stabil', 'theori', 'lyapunov', 'popular', 'topic', 'ussr', 'receiv', 'increas', 'attent', 'note', 'describ', 'lyapunov', 'method', 'briefli', 'appli', 'aeronaut', 'stabil', 'problem'

@@ -1,0 +1,1 @@
+'asymptot', 'solut', 'dimension', 'oscil', 'aerofoil', 'problem', 'high', 'subson', 'mach', 'number', 'method', 'obtain', 'asymptot', 'solut', 'boundari', 'problem', 'wave', 'equat', 'method', 'simpler', 'method', 'previous', 'burger', 'lead', 'result', 'ident', 'burger', 'result'

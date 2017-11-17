@@ -1,0 +1,1 @@
+'quasicylindr', 'surfac', 'prescrib', 'load', 'linearis', 'theori', 'superson', 'flow', 'formula', 'veloc', 'field', 'term', 'surfac', 'distribut', 'vortic', 'appli', 'point', 'lie', 'surfac', 'equat', 'give', 'shape', 'quasi', 'circularcylindr', 'surfac', 'term', 'prescrib', 'load', 'deriv', 'half', 'ring', 'wing', 'prescrib', 'load', 'discuss'

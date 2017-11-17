@@ -1,0 +1,1 @@
+'bend', 'test', 'ringstiffen', 'circular', 'cylind', 'twentyf', 'ringstiffen', 'circular', 'cylind', 'load', 'failur', 'bend', 'result', 'present', 'form', 'design', 'curv', 'applic', 'cylind', 'heavi', 'ring', 'fail', 'result', 'local', 'buckl'

@@ -1,0 +1,11 @@
+.I 1045
+.T
+the bending strength of pressurized cylinders .
+.A
+zender,g.w.
+.B
+j. ae. scs. 29, 1962, 362.
+.W
+the bending strength of pressurized cylinders .
+  discussion of previously presented experimental data for the
+loading of pressurized cylinders, in terms of membrane theory .

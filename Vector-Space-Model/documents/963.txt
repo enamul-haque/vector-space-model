@@ -1,0 +1,14 @@
+.I 963
+.T
+a variational principle for convection of heat .
+.A
+agrawal, h.c.
+.B
+j. math. and mech. v.9, no. 6, 1960 .
+.W
+a variational principle for convection of heat .
+authors extend variational principle of biot to various cases of heat
+transfer due to forced convection . numerical results are given for
+one-dimensional problems of fluid flowing between parallel walls with
+uniform or parabolic velocity profiles . agreement with exact solutions
+is excellent .

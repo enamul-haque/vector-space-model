@@ -1,0 +1,1 @@
+'full', 'dispers', 'shock', 'wave', 'carbon', 'dioxid', 'point', 'shock', 'mach', 'number', '1', 'adjust', 'energi', 'degre', 'freedom', 'proceed', 'slowli', 'parallel', 'occur', 'distanc', 'larg', 'compar', 'free', 'path', 'theoret', 'veloc', 'profil', 'shock', 'wave', 'found', 'excel', 'agreement', 'interferometr', 'shocktub', 'observ'

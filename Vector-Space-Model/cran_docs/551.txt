@@ -1,0 +1,1 @@
+'analysi', 'load', 'cantilev', 'plate', 'finit', 'differ', 'method', 'differ', 'pattern', 'finit', 'differ', 'solut', 'rectangular', 'plate', 'problem', 'boundari', 'condit', 'transvers', 'load', 'develop', 'solut', 'problem', 'deuc'

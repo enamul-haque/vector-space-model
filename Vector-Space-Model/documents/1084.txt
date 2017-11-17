@@ -1,0 +1,13 @@
+.I 1084
+.T
+the flow past circular cylinders at low speeds .
+.A
+thom, a.
+.B
+proc. roy. soc. series a. vol. 141, p. 651, 1933 .
+.W
+the flow past circular cylinders at low speeds .
+this paper deals chiefly with calculations and experiments on the flow
+past circular cylinders, but the arithmetical methods of solution of the
+ equations of steady viscous flow proposed and used in section i, are
+applicable to other equations and may be of interest .

@@ -1,0 +1,1 @@
+'duct', 'flow', 'magnetohydrodynam', 'paper', 'extens', 'work', 'hartmann', '2', 'shercliff', 'transvers', 'magnet', 'field', 'simplest', 'class', 'magnetohydrodynam', 'problem', 'concern', 'boundari', 'problem', 'flow', 'duct', 'conduct', 'wall'

@@ -1,0 +1,1 @@
+'practic', 'method', 'numer', 'evalu', 'solut', 'partial', 'differenti', 'equat', 'heatconduct', 'type', 'approxim', 'method', 'solut', 'nonlinear', 'equat', 'heat', 'flow', 'medium', 'heat', 'gener', 'chemic', 'reaction', 'compar', 'equat', 'subscript', 'partial', 'differenti'

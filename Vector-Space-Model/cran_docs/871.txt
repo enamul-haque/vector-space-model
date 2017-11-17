@@ -1,0 +1,1 @@
+'steadyst', 'creep', 'disloc', 'climb', 'disloc', 'climb', 'creep', 'model', 'consid', 'requir', 'product', 'immobil', 'disloc', 'creep', 'equat', 'result', 'analysi', 'constant', 'stress', 'activ', 'energi', 'creep', 'kt', 'usual', 'mean', 'equat', 'similar', 'previous', 'propos'

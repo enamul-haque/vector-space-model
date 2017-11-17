@@ -1,0 +1,1 @@
+'bend', 'uniformli', 'load', 'sectori', 'plate', 'clamp', 'edg', 'paper', 'analyz', 'bend', 'sectori', 'plate', 'clamp', 'edg', 'subject', 'uniformli', 'distribut', 'load', 'method', 'superposit', 'elementari', 'solut', 'uniformli', 'load', 'circular', 'plate', 'clamp', 'edg'

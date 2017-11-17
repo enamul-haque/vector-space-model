@@ -1,0 +1,18 @@
+.I 106
+.T
+the transverse potential flow past a body of revolution .
+.A
+campbell,i.j.
+.B
+q.j.mech.app.math. 9, 1956, 140.
+.W
+the transverse potential flow past a body of revolution .
+  it is shown that in the potential flow of
+an incompressible inviscid fluid past a
+body of revolution set with its axis at right
+angles to the stream, the velocity
+components at the surface along and perpendicular
+to the meridians vary with azimuthal
+angle round the body in a simple manner .
+this is shown by entirely elementary
+considerations .

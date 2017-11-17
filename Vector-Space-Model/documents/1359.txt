@@ -1,0 +1,18 @@
+.I 1359
+.T
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+.A
+peterson,j.p. and dow,m.b.
+.B
+nasa memo. 2-12-59l, 1959.
+.W
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+  six circular cylinders stiffened longitudinally by closely spaced
+z-section stringers were loaded to failure in compression .  the results
+obtained are presented and compared with available theoretical results
+for the buckling of orthotropic cylinders .  the results indicate that
+the large disparity that exists between theory and experiment for
+unstiffened compression cylinders may be significantly smaller for
+stiffened cylinders .

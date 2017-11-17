@@ -1,0 +1,1 @@
+'dimension', 'bodi', 'delta', 'planform', 'support', 'plane', 'attach', 'shock', 'wave', 'note', 'collect', 'report', 'theoret', 'work', 'bodi', 'support', 'attach', 'plane', 'shock', 'wave', 'discuss', 'merit', 'shape', 'includ', 'calcul', 'illustr', 'properti', 'preliminari', 'result', 'wind', 'tunnel', 'test', 'detail', 'propos', 'futur', 'test'

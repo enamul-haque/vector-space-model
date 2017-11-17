@@ -1,0 +1,1 @@
+'variat', 'principl', 'convect', 'heat', 'author', 'extend', 'variat', 'principl', 'biot', 'case', 'heat', 'transfer', 'due', 'forc', 'convect', 'numer', 'result', 'onedimension', 'problem', 'fluid', 'flow', 'parallel', 'wall', 'uniform', 'parabol', 'veloc', 'profil', 'agreement', 'exact', 'solut', 'excel'

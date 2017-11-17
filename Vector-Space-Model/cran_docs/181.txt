@@ -1,0 +1,1 @@
+'problem', 'heat', 'conduct', 'stratiform', 'bodi', 'problem', 'heat', 'conduct', 'multilay', 'bodi', 'lead', 'complic', 'calcul', 'present', 'paper', 'idea', 'specif', 'difficulti', 'aris', 'case', 'infinit', 'composit', 'solid', 'gener', 'deduct', 'appli', 'special', 'class', 'question'

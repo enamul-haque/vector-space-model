@@ -1,0 +1,1 @@
+'heat', 'transfer', 'planetari', 'atmospher', 'supersatellit', 'speed', 'main', 'purpos', 'investig', 'examin', 'depend', 'heat', 'transfer', 'planetari', 'atmospher', 'total', 'enthalpi', 'flight', 'veloc', '50000', 'ftsec', 'larg', 'proport', 'atom', 'ioniz', 'total', 'thermodynam', 'transport', 'properti', 'concept', 'discuss', 'hirshfeld', 'jchemphys262feb1957'

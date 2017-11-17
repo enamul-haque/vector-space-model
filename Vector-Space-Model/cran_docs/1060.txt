@@ -1,0 +1,1 @@
+'buckl', 'state', 'circular', 'plate', 'author', 'discuss', 'thin', 'elast', 'circular', 'disk', 'constant', 'thick', 'subject', 'constant', 'compress', 'thrust', 'appli', 'edg', 'analysi', 'present', 'base', 'nonlinear', 'von', 'karman', 'equat', 'plate', 'theori', 'appli', 'disk', 'complet', 'clamp', 'complet', 'simpli', 'support', 'edg'

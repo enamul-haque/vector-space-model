@@ -1,0 +1,1 @@
+'calcul', 'lift', 'distribut', 'incompress', 'flow', 'sweptback', 'wing', 'larger', 'survey', 'aerodynam', 'characterist', 'famili', 'sweptback', 'wing', 'lowspe', 'lift', 'distribut', 'calcul', '35', 'planform', 'consid', 'cover', 'rang', 'leadingedg', 'sweep', 'angl', '55', '70', 'aspect', 'ratio', '2', '39', 'result', 'comparison', 'calcul', 'experiment', 'result', 'wing'

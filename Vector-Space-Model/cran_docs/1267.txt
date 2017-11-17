@@ -1,0 +1,1 @@
+'superson', 'flow', 'past', 'thick', 'airfoil', 'inviscid', 'rotat', 'superson', 'flow', 'shock', 'wave', 'attach', 'sharp', 'lead', 'edg', 'airfoil', 'studi', 'transform', 'coordin', 'introduc', 'crocco', 'stream', 'function', 'independ', 'variabl', 'expans', 'power', 'seri', 'iter', 'process', 'develop', 'determin', 'pressur', 'distribut', 'airfoil', 'surfac'

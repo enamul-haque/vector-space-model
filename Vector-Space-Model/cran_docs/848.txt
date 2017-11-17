@@ -1,0 +1,1 @@
+'effect', 'intern', 'compress', 'fluid', 'column', 'breath', 'vibrat', 'thin', 'pressuris', 'cylindr', 'shell', 'free', 'oscil', 'thin', 'pressur', 'cylindr', 'shell', 'compress', 'fluid', 'studi', 'approxim', 'set', 'shell', 'equat', 'shallow', 'shell', 'theori', 'lead', 'simpl', 'formula', 'natur', 'frequenc', 'coupl', 'fluidcylind', 'system', 'result', 'comput', 'present'

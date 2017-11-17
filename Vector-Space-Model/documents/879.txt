@@ -1,0 +1,12 @@
+.I 879
+.T
+flutter model testing at transonic speeds .
+.A
+targoff, w.p. and white, r.p.
+.B
+inst. aero. sc. perp. 706, may 1957 .
+.W
+flutter model testing at transonic speeds .
+flutter research on reflection plane models of straight, swept, and
+delta wings in a 3 x 4 foot transonic test facility . techniques of
+model construction and testing developed .

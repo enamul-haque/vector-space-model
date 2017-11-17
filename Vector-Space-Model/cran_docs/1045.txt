@@ -1,0 +1,1 @@
+'bend', 'strength', 'pressur', 'cylind', 'discuss', 'previous', 'present', 'experiment', 'data', 'load', 'pressur', 'cylind', 'term', 'membran', 'theori'

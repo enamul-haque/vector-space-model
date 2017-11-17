@@ -1,0 +1,1 @@
+'threedimension', 'linear', 'analysi', 'forc', 'exert', 'rigid', 'wing', 'shock', 'wave', 'pressur', 'distribut', 'move', 'flat', 'plate', 'induc', 'acoust', 'shock', 'front', 'strike', 'edg', 'plate', 'obliqu', 'found', 'term', 'twodimension', 'solut', 'author'

@@ -1,0 +1,15 @@
+.I 238
+.T
+on a determination of the pitot-static tube factor
+at low reynolds numbers, with special reference to
+the measurement of low air speeds .
+.A
+ower,e. and johansen,f.c.
+.B
+arc r + m 1437, 1931.
+.W
+on a determination of the pitot-static tube factor
+at low reynolds numbers, with special reference to
+the measurement of low air speeds .
+  reasons for enquiry--to provide a standard instrument for
+the calibration of low speed anemometers .

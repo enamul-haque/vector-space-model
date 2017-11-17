@@ -1,0 +1,16 @@
+.I 910
+.T
+natural frequencies of continuous beams of uniform
+span length .
+.A
+ayre,r.s. and jacobson,l.s.
+.B
+j. app. mech. 17, 1950, 391.
+.W
+natural frequencies of continuous beams of uniform
+span length .
+  a simple graphical network is used to determine the
+natural frequencies of flexural vibration of continuous
+beams having any number of spans of uniform length .
+the network is based upon a relatively few calculated
+values .

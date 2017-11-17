@@ -1,0 +1,1 @@
+'effect', 'turbul', 'slider', 'bear', 'lubric', 'base', 'prandtl', 'mixinglength', 'mechan', 'pressur', 'equat', 'turbul', 'flow', 'sliderbear', 'lubric', 'deriv', 'analyt', 'solut', 'compar', 'laminar', 'flow', 'found', 'turbul', 'effect', 'increas', 'pressur', 'loadcarri', 'capac', 'power', 'loss', 'increas'

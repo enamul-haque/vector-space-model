@@ -1,0 +1,1 @@
+'aerodynam', 'characterist', 'wing', 'reentri', 'vehicl', 'superson', 'hyperson', 'speed', 'test', 'conduct', 'langley', 'research', 'center', 'wing', 'lift', 'hyperson', 'reentri', 'glider', 'configur', 'perform', 'stabil', 'control', 'data', 'present', 'mach', 'number', '162', '291', 'angl', 'attack', '15degre', 'mach', 'number', '68', '96', 'angl', 'attack', '25degre'

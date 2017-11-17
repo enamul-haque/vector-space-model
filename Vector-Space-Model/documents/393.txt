@@ -1,0 +1,14 @@
+.I 393
+.T
+the shear flow along a flat plate with uniform suction .
+.A
+sakurai,t.
+.B
+j.ae.scs. 24, 1957.
+.W
+the shear flow along a flat plate with uniform suction .
+  recently, several authors have investigated the boundary
+layer in a shear flow .  in this note, an exact solution of the
+navier-stokes equations will be presented, which represents the
+boundary layer along an infinite flat plate with uniform suction
+situated in a shear flow .

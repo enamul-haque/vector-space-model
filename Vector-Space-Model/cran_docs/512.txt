@@ -1,0 +1,1 @@
+'quasicylindr', 'surfac', 'prescrib', 'thick', 'distribut', 'formula', 'superson', 'veloc', 'field', 'term', 'surfac', 'distribut', 'sourc', 'appli', 'point', 'lie', 'surfac', 'equat', 'give', 'camber', 'shape', 'quasi', 'circularcylindr', 'surfac', 'term', 'prescrib', 'thick', 'distribut', 'deriv', 'half', 'ring', 'wing', 'prescrib', 'thick', 'distribut', 'discuss'

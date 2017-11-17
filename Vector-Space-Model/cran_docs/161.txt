@@ -1,0 +1,1 @@
+'superson', 'flow', 'past', 'famili', 'blunt', 'symmetr', 'bodi', '100', 'numer', 'comput', 'carri', 'unyaw', 'bodi', 'revolut', 'detach', 'bow', 'wave', 'ga', 'assum', 'perfect', 'freestream', 'mach', 'number', '12', '15', '2', '3', '4', '6', '10', 'result', 'summar', 'emphasi', 'sphere', 'paraboloid'

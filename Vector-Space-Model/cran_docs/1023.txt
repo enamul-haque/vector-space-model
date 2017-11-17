@@ -1,0 +1,1 @@
+'note', 'creep', 'buckl', 'column', 'theori', 'creep', 'buckl', 'present', 'instantan', 'elast', 'plastic', 'deform', 'applic', 'load', 'steadi', 'creep', 'deform', 'consid', 'approxim', 'manner', 'equat', 'critic', 'time', 'time', 'elaps', 'load', 'applic', 'collaps', 'column', 'comput'

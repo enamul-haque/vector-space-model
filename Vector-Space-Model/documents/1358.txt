@@ -1,0 +1,15 @@
+.I 1358
+.T
+compressive buckling of simply supported plates with
+transverse stiffeners .
+.A
+budiansky,b. and seide,p.
+.B
+naca tn.1557, 1948.
+.W
+compressive buckling of simply supported plates with
+transverse stiffeners .
+  charts are presented for the analysis of the stability under
+longitudinal compression of simply supported rectangular plates with
+several equally spaced transverse stiffeners that have both torsional
+and flexural rigidity .

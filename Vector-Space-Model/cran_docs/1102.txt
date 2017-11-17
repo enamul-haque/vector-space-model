@@ -1,0 +1,1 @@
+'fivestag', 'solid', 'fuel', 'sound', 'rocket', 'system', 'fivestag', 'solidfuel', 'soundingrocket', 'system', 'boost', 'payload', '25', 'pound', 'altitud', '525', 'nautic', 'mile', '100', 'pound', '300', 'nautic', 'mile', 'data', 'obtain', 'typic', 'flight', 'test', 'system', 'discuss'

@@ -1,0 +1,1 @@
+'stagnationpoint', 'shockdetach', 'distanc', 'flow', 'sphere', 'cylind', 'air', 'author', 'discuss', 'problem', 'deflect', 'cantilev', 'bar', 'initi', 'shape', 'circular', 'arc', 'subject', 'arbitrarili', 'inclin', 'end', 'load'

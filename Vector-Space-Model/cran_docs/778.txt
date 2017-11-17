@@ -1,0 +1,1 @@
+'integr', 'relat', 'radiat', 'integr', 'author', 'point', 'relat', 'integr', 'problem', 'astrophys', 'quantum', 'mechan', 'import', 'suppli', 'tabl', 'valu', 'tabl', 'rlx', 'place', 'decim', 'x0', 'x600', 'interv', '001', 'order', 'central', 'differ', 'tabul', 'assist', 'interpol'

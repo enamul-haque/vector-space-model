@@ -1,0 +1,1 @@
+'compress', 'buckl', 'simpli', 'support', 'plate', 'transvers', 'stiffen', 'chart', 'present', 'analysi', 'stabil', 'longitudin', 'compress', 'simpli', 'support', 'rectangular', 'plate', 'equal', 'space', 'transvers', 'stiffen', 'torsion', 'flexur', 'rigid'

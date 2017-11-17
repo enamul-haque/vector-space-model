@@ -1,0 +1,1 @@
+'heat', 'transfer', 'laminar', 'flow', 'rotat', 'plate', 'exact', 'solut', 'heattransf', 'problem', 'von', 'karman', 'laminar', 'flow', 'viscou', 'fluid', 'rotat', 'plate', 'dimensionless', 'form', 'physic', 'discuss', 'solut', 'explicitli', 'constant', 'temperatur', 'plate', 'viscou', 'dissip', 'includ', 'numer', 'result', 'prandtl', 'number', '05', '10'

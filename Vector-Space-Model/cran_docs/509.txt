@@ -1,0 +1,1 @@
+'graphic', 'approxim', 'temperatur', 'sublim', 'rate', 'surfac', 'subject', 'small', 'net', 'larg', 'gross', 'heat', 'transfer', 'rate', 'consid', 'materi', 'act', 'heat', 'conduct', 'state', 'sublim', 'heat', 'surfac', 'deriv', 'method', 'suitabl', 'condit', 'sever', 'heat', 'space', 'vehicl', 'reentri'

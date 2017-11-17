@@ -1,0 +1,1 @@
+'stagnat', 'point', 'heat', 'transfer', 'measur', 'super', 'satellit', 'speed', 'descript', 'experi', 'perform', 'shock', 'tube', 'techniqu', 'measur', 'stagnat', 'point', 'heat', 'blunt', 'bodi', 'stagnat', 'enthalpi', 'rang', '650', '900', 'veloc', '32000', 'ft', 'sec', '39000', 'ft', 'sec', 'data', 'provid', 'comparison', 'theori'

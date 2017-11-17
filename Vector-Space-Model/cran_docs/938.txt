@@ -1,0 +1,1 @@
+'calcul', 'stabil', 'thin', 'conic', 'frustum', 'subject', 'extern', 'uniform', 'hydrostat', 'pressur', 'axial', 'load', 'calcul', 'present', 'problem', 'stabil', 'conic', 'shell', 'subject', 'combin', 'extern', 'uniform', 'hydrostat', 'pressur', 'axial', 'tension', 'compress', 'stress', 'interact', 'curv', 'found', 'vari', 'slightli', 'function', 'ratio', 'end', 'radii', 'cone'

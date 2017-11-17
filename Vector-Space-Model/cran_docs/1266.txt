@@ -1,0 +1,1 @@
+'minimum', 'wing', 'wave', 'drag', 'volum', 'constraint', 'numer', 'method', 'develop', 'calcul', 'minimum', 'thick', 'drag', 'wing', 'planform', 'volum', 'linear', 'superson', 'flow', 'theori', 'optimum', 'volum', 'distribut', 'determin', 'result', 'show', 'consider', 'drag', 'reduct', 'improv', 'volum', 'distribut'

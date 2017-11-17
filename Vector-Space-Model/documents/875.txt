@@ -1,0 +1,13 @@
+.I 875
+.T
+models for aeroelastic investigation .
+.A
+templeton,h.
+.B
+arc cp.255, 1955.
+.W
+models for aeroelastic investigation .
+  this addendum provides a short note on two aspects omitted from the
+original paper, viz. gravitational effects and structural damping .  a
+short list of references to earlier papers dealing with the subject is
+also added .

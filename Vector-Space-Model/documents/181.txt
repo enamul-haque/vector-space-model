@@ -1,0 +1,13 @@
+.I 181
+.T
+some problems on heat conduction in stratiform bodies .
+.A
+vodicka,v.
+.B
+j. phys. soc. japan, 14, 1959, 216.
+.W
+some problems on heat conduction in stratiform bodies .
+  problems on heat conduction in multilayer bodies lead usually to
+complicated calculations .  the present paper gives an idea of specific
+difficulties arising in the case of infinite composite solides .
+general deductions are applied to a special class of questions .

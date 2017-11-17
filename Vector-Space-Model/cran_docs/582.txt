@@ -1,0 +1,1 @@
+'melt', 'finit', 'slab', 'approxim', 'method', 'heatbal', 'integr', 'determin', 'melt', 'rate', 'finit', 'slab', 'initi', 'uniform', 'temperatur', 'melt', 'point', 'slab', 'act', 'constant', 'heat', 'input', 'face', 'face', 'insul', 'initi', 'temperatur', 'term', 'seri', 'solut', 'intrins', 'small', 'paramet', 'obtain', 'time', 'histori', 'melt', 'temperatur', 'distribut', 'slab'

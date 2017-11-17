@@ -1,0 +1,1 @@
+'problem', 'strain', 'accumul', 'thermal', 'cycl', 'park', 'spragu', 'huang', 'shown', 'strain', 'growth', 'occur', 'beam', 'structur', 'temperatureload', 'cycl', 'aspect', 'problem', 'criteria', 'converg', 'diverg', 'strain', 'accumul', 'simpli', 'demonstr', 'thermal', 'cycl', 'element', 'twoelement', 'structur'

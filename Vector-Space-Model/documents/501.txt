@@ -1,0 +1,16 @@
+.I 501
+.T
+stagnation-point shock detachment of blunt bodies in
+supersonic flow .
+.A
+ridyard,h.w.
+.B
+j. ae. scs. 29, 1962, 751.
+.W
+stagnation-point shock detachment of blunt bodies in
+supersonic flow .
+  presentation of stagnation-point shock-detachment distances
+determined by the exact numerical method of gravalos, edelfelt,
+and emmons .  the results are compared with those from the
+previously published methods of van dyke and gordon, li and geiger,
+and serbin, and with experimental data .

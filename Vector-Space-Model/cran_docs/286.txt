@@ -1,0 +1,1 @@
+'effect', 'roll', 'dynam', 'instabl', 'symmetr', 'missil', 'note', 'attempt', 'extend', 'discuss', 'state', 'slightli', 'neater', 'form', 'gener', 'stabil', 'condit', 'describ', 'experiment', 'result', 'dynam', 'instabl'

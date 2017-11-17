@@ -1,0 +1,16 @@
+.I 578
+.T
+dissociation scaling for nonequilibrium blunt nose flows .
+.A
+gibson, w.e.
+.B
+ars journal. vol. 32pp. 285-287. 1962 .
+.W
+dissociation scaling for nonequilibrium blunt nose flows .
+stage-stacking study . the principal problems considered were poor
+low-speed efficiency, multiple-valued performance characteristics at
+intermediate speeds, and poor intermediate-speed compressor surge or
+stall-naca rm e56b03b, 1956 . chapter xiii
+compressor operation with one or more blade rows stalled .
+an analysis of the part-speed operating problems of high-pressure-ratio
+ air .

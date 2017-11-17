@@ -1,0 +1,13 @@
+.I 1146
+.T
+thermal buckling of cylinders .
+.A
+melvin s. anderson
+.B
+nasa langley research center
+.W
+thermal buckling of cylinders .
+several theoretical and experimental investigations on the buckling
+of cylinders due to both axial and circumferential thermal stresses are
+reviewed .  differences that exist among the various results are
+discussed and areas of future work are indicated .

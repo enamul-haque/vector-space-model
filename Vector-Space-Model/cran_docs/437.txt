@@ -1,0 +1,1 @@
+'hyperveloc', 'stagnat', 'point', 'heat', 'transfer', 'analysi', 'includ', 'specif', 'contribut', 'atom', 'molecul', 'tion', 'partial', 'ioniz', 'air', 'approxim', 'fourcompon', 'ga', 'includ', 'n2', 'ii', 'ga', 'local', 'thermochem', 'equilibrium', 'iii', 'charg', 'separ', 'iv', 'thermal', 'diffus', 'neglect', 'electr', 'magnet', 'field', 'low', 'effect', 'neglect'

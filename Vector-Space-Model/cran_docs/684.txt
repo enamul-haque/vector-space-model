@@ -1,0 +1,1 @@
+'tabl', 'complet', 'ellipt', 'integr', 'present', 'paper', 'set', 'tabl', 'complet', 'ellipt', 'integr', 'comput', 'collect', 'applic', 'dynam', 'problem', 'tabul', 'function', 'number', 'denot', 'fa', 'ga', 'ea', 'andabrespect', 'definit', 'function', 'connect', 'function', 'legendr', 'discuss'

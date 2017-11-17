@@ -1,0 +1,1 @@
+'simpl', 'method', 'calcul', 'span', 'chordwis', 'load', 'straight', 'swept', 'wing', 'aspect', 'ratio', 'subson', 'speed', 'method', 'classic', 'aerofoil', 'theori', 'deriv', 'gener', 'theori', 'wing', 'planform', 'load', 'surfac', 'wing', 'calcul', 'subcrit', 'mach', 'number', 'procedur', 'simpl', 'rapid', 'classic', 'aerofoil', 'theori', 'calcul', 'result', 'confirm', 'experi'

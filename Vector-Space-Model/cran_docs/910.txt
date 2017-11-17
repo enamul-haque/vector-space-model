@@ -1,0 +1,1 @@
+'natur', 'frequenc', 'continu', 'beam', 'uniform', 'span', 'length', 'simpl', 'graphic', 'network', 'determin', 'natur', 'frequenc', 'flexur', 'vibrat', 'continu', 'beam', 'number', 'span', 'uniform', 'length', 'network', 'base', 'calcul', 'valu'

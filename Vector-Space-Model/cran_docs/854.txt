@@ -1,0 +1,1 @@
+'boundaryvalu', 'problem', 'thinwal', 'circular', 'cylind', 'homogen', 'differenti', 'equat', 'donnel', 'theori', 'thin', 'cylindr', 'shell', 'integr', 'express', 'obtain', 'close', 'form', 'displac', 'membran', 'stress', 'moment', 'shear', 'forc'

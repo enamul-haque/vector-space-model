@@ -1,0 +1,1 @@
+'accuraci', 'donnel', 'equat', 'solut', 'donnel', 'equat', 'small', 'deform', 'perfectli', 'elast', 'thinwal', 'circular', 'cylindr', 'shell', 'compar', 'obtain', 'flugg', 'equat', 'rang', 'basic', 'paramet', 'found', 'solut', 'approxim', 'equal'

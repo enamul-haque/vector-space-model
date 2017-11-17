@@ -1,0 +1,1 @@
+'pressur', 'distribut', 'lift', 'delta', 'wing', 'rhombic', 'cross', 'section', 'linearis', 'theori', 'thin', 'wing', 'calcul', 'pressur', 'distribut', 'delta', 'wing', 'rhombic', 'cross', 'section', 'deuc', 'programm', 'written', 'calcul', 'result', 'compar', 'slender', 'thin', 'wing', 'theori'

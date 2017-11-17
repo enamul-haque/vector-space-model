@@ -1,0 +1,1 @@
+'forc', 'measur', 'squar', 'dodecagon', 'section', 'cylind', 'high', 'reynold', 'number', 'result', 'measur', 'compress', 'air', 'tunnel', 'forc', 'cylind', 'squar', 'crosssect', 'dodecagon', 'test', 'carri', 'reynold', 'number', 'rang', 'approxim', '01', '10', '55', '10', 'base', 'distanc', 'parallel', 'face'

@@ -1,0 +1,17 @@
+.I 774
+.T
+general characteristics of the flow through nozzles
+at near critical speeds .
+.A
+sauer,r.
+.B
+naca tm.1147, 1944.
+.W
+general characteristics of the flow through nozzles
+at near critical speeds .
+  the characteristics of the position and form of
+the transition surface through the critical velocity
+are computed for flow through flat and round nozzles
+from subsonic to supersonic velocity .  corresponding
+considerations were carried out for the flow about profiles
+in the vicinity of sonic velocity .

@@ -1,0 +1,1 @@
+'buckl', 'thin', 'singl', 'multilay', 'conic', 'cylindr', 'shell', 'rotat', 'symmetr', 'stress', 'buckl', 'simpli', 'support', 'thin', 'singl', 'multilay', 'conic', 'shell', 'axial', 'symmetr', 'load', 'analyz', 'paper', 'result', 'present', 'compact', 'manner', 'easili', 'design', 'andor', 'experiment', 'purpos', 'result', 'compar', 'experiment', 'valu'

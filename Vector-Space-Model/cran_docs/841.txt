@@ -1,0 +1,1 @@
+'bend', 'circular', 'cylindr', 'shell', 'pure', 'bend', 'stabil', 'circular', 'cylindr', 'shell', 'pure', 'bend', 'investig', 'mean', 'batdorf', 'modifi', 'donnel', 'equat', 'galerkin', 'method', 'result', 'investig', 'shown', 'contrari', 'commonli', 'accept', 'maximum', 'critic', 'bend', 'stress', 'practic', 'purpos', 'equal', 'critic', 'compress', 'stress'

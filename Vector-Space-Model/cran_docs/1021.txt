@@ -1,0 +1,1 @@
+'note', 'creep', 'buckl', 'column', 'paper', 'describ', 'theori', 'test', 'creep', 'collaps', 'long', 'thin', 'aluminumalloy', 'cylind', 'extern', 'radial', 'pressur', 'steadyst', 'creep', 'assum', 'theoret', 'deriv', 'test', 'temperatur', '300', '500', 'collaps', 'time', 'cylind', 'calcul', 'theoret', 'agreement', 'theoret', 'test', 'result', 'fair'

@@ -1,0 +1,1 @@
+'note', 'creep', 'buckl', 'column', 'fortythre', 'cylind', '40inch', 'length', '16inch', 'diamet', 'made', '50520', 'aluminumalloy', 'sheet', 'thick', 'subject', 'bend', 'moment', 'constant', 'cylind', 'time', 'oven', 'maintain', 'constant', 'temperatur', '500', 'test', 'cylind', 'fail', 'buckl', 'time', 'elaps', 'load', 'applic', 'collaps', 'measur'

@@ -1,0 +1,1 @@
+'bend', 'uniformli', 'load', 'rectangular', 'plate', 'adjac', 'edg', 'simpli', 'support', 'free', 'distribut', 'deflect', 'bend', 'moment', 'uniformli', 'load', 'rectangular', 'plate', 'adjac', 'edg', 'clamp', 'simpli', 'support', 'free', 'obtain', 'method', 'superposit', 'numer', 'valu', 'squar', 'plate', 'case', 'result', 'compar', 'obtain', 'method'

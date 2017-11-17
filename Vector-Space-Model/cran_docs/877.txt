@@ -1,0 +1,1 @@
+'influenc', 'aerodynam', 'heat', 'flexur', 'rigid', 'thin', 'wing', 'report', 'consid', 'loss', 'flexur', 'rigid', 'thin', 'wing', 'due', 'presenc', 'middlesurfac', 'stress', 'result', 'aerodynam', 'heat', 'spanwis', 'properti', 'wing', 'assum', 'constant', 'wing', 'section', 'arbitrari', 'loss', 'flexur', 'rigid', 'compar', 'loss', 'torsion', 'rigid'

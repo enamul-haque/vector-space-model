@@ -1,0 +1,1 @@
+'stationari', 'convect', 'flow', 'electr', 'conduct', 'liquid', 'parallel', 'plate', 'magnet', 'field', 'studi', 'made', 'stationari', 'convect', 'electr', 'conduct', 'liquid', 'space', 'parallel', 'plate', 'heat', 'temperatur', 'presenc', 'magnet', 'field', 'distribut', 'veloc', 'temperatur', 'induc', 'field', 'found', 'convect', 'heat', 'flow', 'calcul'

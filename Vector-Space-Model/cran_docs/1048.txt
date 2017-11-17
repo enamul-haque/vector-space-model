@@ -1,0 +1,1 @@
+'small', 'deflect', 'theori', 'curv', 'sandwich', 'plate', 'smalldeflect', 'theori', 'take', 'account', 'deform', 'due', 'transvers', 'shear', 'present', 'elasticbehavior', 'analysi', 'orthotrop', 'plate', 'constant', 'cylindr', 'curvatur', 'consider', 'buckl', 'includ', 'theori', 'applic', 'primarili', 'sandwich', 'construct'

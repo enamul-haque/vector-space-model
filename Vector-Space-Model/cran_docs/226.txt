@@ -1,0 +1,1 @@
+'aerofoil', 'theori', 'flat', 'delta', 'wing', 'superson', 'speed', 'lift', 'drag', 'pressur', 'distribut', 'triangular', 'flat', 'plate', 'move', 'small', 'incid', 'superson', 'speed', 'arbitrari', 'mach', 'number', 'aspect', 'ratio', 'valu', 'obtain', 'lift', 'drag', 'compar', 'valu', 'obtain', 'strip', 'theori', 'possibl', 'applic', 'analysi', 'lead', 'result'

@@ -1,0 +1,1 @@
+'stagnat', 'point', 'shock', 'detach', 'distanc', 'flow', 'sphere', 'cylind', 'develop', 'analyt', 'relat', 'shock', 'detach', 'distanc', 'freestream', 'mach', 'number', 'result', 'present', 'graphic', 'shock', 'detach', 'distanc', 'cylind', 'sphere', 'air'

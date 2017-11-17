@@ -1,0 +1,1 @@
+'stagnationpoint', 'shock', 'detach', 'blunt', 'bodi', 'superson', 'flow', 'present', 'stagnationpoint', 'shockdetach', 'distanc', 'determin', 'exact', 'numer', 'method', 'gravalo', 'edelfelt', 'emmon', 'result', 'compar', 'previous', 'publish', 'method', 'van', 'dyke', 'gordon', 'li', 'geiger', 'serbin', 'experiment', 'data'

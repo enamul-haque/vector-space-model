@@ -1,0 +1,1 @@
+'stagnat', 'point', 'heat', 'transfer', 'partial', 'ioniz', 'air', 'comparison', 'heattransf', 'rate', 'obtain', 'transport', 'properti', 'recent', 'report', 'peng', 'pindroh', 'rate', 'base', 'hansen', 'thermodynam', 'transport', 'properti', 'shown', 'heattransf', 'rate', 'base', 'peng', 'pindroh', 'data', '20', '30', 'lower', 'veloc', 'rang', '25000', '40000', 'ft', 'sec'

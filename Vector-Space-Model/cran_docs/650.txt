@@ -1,0 +1,1 @@
+'design', 'problem', 'hovercraft', 'analysi', 'influenc', 'aerodynam', 'paramet', 'perform', 'simpl', 'peripher', 'jet', 'system', 'power', 'weight', 'ratio', 'lift', 'drag', 'ratio', 'effect', 'jet', 'angl', 'thick', 'consid', 'structur', 'requir', 'optimum', 'cushion', 'pressur', 'dynam', 'stabil', 'wave', 'examin', 'relat', 'econom', 'groundeffect', 'machin', 'oper'

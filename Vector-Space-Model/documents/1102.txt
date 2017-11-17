@@ -1,0 +1,13 @@
+.I 1102
+.T
+a five-stage solid fuel sounding rocket system .
+.A
+swanson, a.g.
+.B
+nasa memo 3-6-59 l, 1959 .
+.W
+a five-stage solid fuel sounding rocket system .
+a five-stage solid-fuel sounding-rocket system which can boost a payload
+ of 25 pounds to an altitude of 525 nautical miles and that of 100
+pounds to 300 nautical miles is described . data obtained from a typical
+ flight test of the system are discussed .

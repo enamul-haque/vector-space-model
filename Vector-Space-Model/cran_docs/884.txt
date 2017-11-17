@@ -1,0 +1,1 @@
+'estim', 'fatigu', 'damag', 'structur', 'element', 'method', 'present', 'estim', 'fatigu', 'damag', 'aircraft', 'structur', 'element', 'gust', 'spectrum', 'aircraft', 'subject', 'analys', 'term', 'infinitesim', 'load', 'interv', 'gust', 'data', 'suppli', 'taylor', 'fli', '15000', 'ft', 'studi', 'fatigu', 'damag', 'number', 'aircraft', 'structur', 'joint', 'structur'

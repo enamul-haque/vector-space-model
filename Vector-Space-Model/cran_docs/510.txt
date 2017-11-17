@@ -1,0 +1,1 @@
+'manoeuvr', 'techniqu', 'chang', 'plane', 'circular', 'orbit', 'minimum', 'fuel', 'expenditur', 'usafsupport', 'discuss', 'intermedi', 'ellipt', 'orbit', 'chang', 'plane', 'circular', 'orbit', 'valu', 'perige', 'apoge', 'veloc', 'calcul', 'case', 'brake', 'impuls', 'suppli', 'graze', 'atmospher', '3', 'reorbit', '90', 'brake', 'impuls', 'suppli', 'manner'
