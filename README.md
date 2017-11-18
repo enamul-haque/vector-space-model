@@ -1,6 +1,6 @@
-===============================================================================
+
                         How to run
-===============================================================================
+
 
 Running the program is very simple. If you want to run it from command promt, 
 please type "python3 vsm.py" after setting the user query or default query mode
@@ -8,9 +8,8 @@ along with the desired number of ranked output for every rank
 
 
 
-===============================================================================
                         Important functions and variables
-===============================================================================
+                        
 document_dir: contains original data file
 save_to: this directory contains the redefined documents from the document_dir, 
 keeping only the description
